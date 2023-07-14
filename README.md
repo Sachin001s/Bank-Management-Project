@@ -1,7 +1,10 @@
+<img src="BANK.png" align="right" width="200px" height="200px"/>
 
-# Bank Management System
+# Bank Management System  &nbsp; ![Static Badge](https://img.shields.io/badge/Bank_Managment_System%20-%20BMS%20-%20aircall)
 
-This repository contains a Bank Management System implemented in C++. The system provides a set of features to manage bank accounts, perform transactions, and generate reports. It offers an interactive command-line interface for users to interact with the system.
+
+> This repository contains a Bank Management System implemented in C++. 
+The system provides a set of features to manage bank accounts, perform transactions, and generate reports. It offers an interactive command-line interface for users to interact with the system.
 
 
 ## Features
@@ -12,6 +15,9 @@ This repository contains a Bank Management System implemented in C++. The system
 - Balance Inquiry: Provides the account balance for a given account.
 - Account Statement: Generates a detailed statement for a specified account, including transaction history and current balance.
 - Account Transfer: Facilitates fund transfers between two existing accounts, ensuring sufficient balance in the sender's account.
+<br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Screenshot 2023-07-14 230109](https://github.com/Sachin001s/Bank-Management-Project/assets/128379424/2345effb-1c49-4c84-91da-896df3c6333a)
 
 
 ## Getting Started
@@ -46,9 +52,6 @@ The Bank Management System is open-source and released under the [MIT](https://c
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
 
 ## Acknowledgements
 
